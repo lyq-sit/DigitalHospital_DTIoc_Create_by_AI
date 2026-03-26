@@ -73,7 +73,7 @@ npm run preview
 ## 接入信息
 
 - **渲染地址**: https://dtp-api.51aes.com
-- **渲染口令**: 7ad6080b587af8808f810d7331165646
+- **渲染口令**: Your own Render code
 
 ## 开发说明
 
